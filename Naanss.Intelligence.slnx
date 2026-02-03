@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Naanss.Bootstrap/Naanss.Bootstrap.csproj" />
+  <Project Path="Naanss.Core/Naanss.Core.csproj" />
+</Solution>
