@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Naanss.AI/Naanss.AI.csproj" />
   <Project Path="Naanss.Bootstrap/Naanss.Bootstrap.csproj" />
   <Project Path="Naanss.Core/Naanss.Core.csproj" />
 </Solution>
